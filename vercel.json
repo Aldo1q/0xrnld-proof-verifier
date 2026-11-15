@@ -1,0 +1,1 @@
+{"buildCommand":"npm run build","functions":{"api/verify.ts":{"includeFiles":"demo/**","maxDuration":60},"src/server.ts":{"includeFiles":"demo/**","maxDuration":60}}}
